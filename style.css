@@ -1,0 +1,55 @@
+body {
+  margin: 0px;
+  height: 100%;
+  background-color: black;
+}
+.sayfa {
+  background-color: white;
+  margin: 170px 65px;
+  height: 350px;
+  font-size: large;
+}
+.ust {
+  text-align: center;
+}
+.ust img {
+  width: 380px;
+}
+.orta {
+  background-color: rgb(234, 231, 231);
+  text-align: center;
+  height: 70px;
+  margin: 0px 40px;
+}
+.alt {
+  display: flex;
+  height: 85px;
+  font-size: 15px;
+  justify-content: center;
+  flex: 1;
+  font-size: small;
+}
+.sol {
+  background-color: #7ee5da;
+  width: 470px;
+  margin-top: 3px;
+  margin-right: 3px;
+  text-align: center;
+}
+.orta2 {
+  background-color: #70ccc2;
+  width: 250px;
+  margin-top: 3px;
+  margin-right: 3px;
+  text-align: center;
+}
+.sag {
+  background-color: #62b3aa;
+  width: 585px;
+  margin-top: 3px;
+  margin-right: 3px;
+  text-align: center;
+}
+a {
+  font-size: medium;
+}
